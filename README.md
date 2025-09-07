@@ -1,73 +1,101 @@
-# Welcome to your Lovable project
+# 🏋️‍♂️ Haramaya Gym Website
 
-## Project info
+[![React](https://img.shields.io/badge/React-18.2.0-blue?logo=react)](https://reactjs.org/) 
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.2.2-blue?logo=typescript)](https://www.typescriptlang.org/) 
+[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
-**URL**: https://lovable.dev/projects/577a05c0-dccf-4608-a4ed-04cc5cee0462
+Welcome to the **official website for Haramaya Gym**!  
+This project is a **modern, responsive landing page** designed to showcase the gym’s services, pricing, and testimonials.  
+It provides a **seamless user experience** and creates a **powerful first impression** for potential members. 💪
 
-## How can I edit this code?
+---
 
-There are several ways of editing your application.
+## 🌐 Live Deployment
+You can view a live demo of the project here: **[Haramaya Gym Live](https://your-deployment-link.com)**
 
-**Use Lovable**
+---
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/577a05c0-dccf-4608-a4ed-04cc5cee0462) and start prompting.
+## ✨ Features
+* 🎯 **Hero Section** – Dynamic welcome area to grab visitors' attention.
+* ℹ️ **About Section** – Gym’s mission, values, and facilities.
+* 🏃 **Services Section** – Personal Training, Group Classes & more.
+* 💵 **Pricing Plans** – Simple, transparent membership options.
+* 🗣️ **Testimonials** – Real member stories for trust and credibility.
+* 📬 **Contact Form** – Quick inquiries + integrated location map.
 
-Changes made via Lovable will be committed automatically to this repo.
+---
 
-**Use your preferred IDE**
+## 🛠️ Technology Stack
+Built with a **modern, efficient stack** for speed and scalability:
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+* ⚛️ **React** – Frontend framework
+* 🟦 **TypeScript** – Strongly typed language for reliability
+* ⚡ **Vite** – Fast build tool & dev server
+* 🎨 **Tailwind CSS** – Utility-first styling
+* 🧩 **shadcn/ui** – Pre-built, elegant UI components
+* 🔗 **Lucide React** – Icon library for clean, modern visuals
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+---
 
-Follow these steps:
+## 🚀 Getting Started
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+### ✅ Prerequisites
+* Node.js **14+**
+* npm / yarn / pnpm
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+### 💻 Installation
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/urjiko1/Haramaya-Gym.git
+    ```
+2. Navigate to the project directory:
+    ```bash
+    cd Haramaya-Gym
+    ```
+3. Install dependencies:
+    ```bash
+    npm install
+    ```
 
-# Step 3: Install the necessary dependencies.
-npm i
+### ▶️ Run Development Server
+1. Start the development server:
+    ```bash
+    npm run dev
+    ```
+2. Open 👉 `http://localhost:5173` in your browser.
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
 
-**Edit a file directly in GitHub**
+---
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
 
-**Use GitHub Codespaces**
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+## 🤝 Contributing
+We welcome contributions! 💡
 
-## What technologies are used for this project?
+1.  Fork the repo.
+2.  Create a feature branch: `git checkout -b feature/your-feature-name`.
+3.  Commit your changes: `git commit -m "Add a new feature"`.
+4.  Push to the branch: `git push origin feature/your-feature-name`.
+5.  Open a Pull Request. 🚀
 
-This project is built with:
+---
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
 
-## How can I deploy this project?
 
-Simply open [Lovable](https://lovable.dev/projects/577a05c0-dccf-4608-a4ed-04cc5cee0462) and click on Share -> Publish.
+## 📬 Contact
 
-## Can I connect a custom domain to my Lovable project?
+Have questions, suggestions, or feedback?
+Reach out via 
 
-Yes, you can!
+ * **[Open an Issue](https://github.com/urjiiko1/GradeEvaluator/issues) 💬**
+* **[LinkedIn](https://www.linkedin.com/in/gemachis-tesfaye-137196318) 👤**
+* **[Email](mailto:gemachistesfaye36@gmail.com) ✉️**
+* **[Telegram](https://t.me/urjiiko1) 📱**
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+----
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+🔥 Stay fit, stay strong, and keep coding! 💪👨‍💻
+
+
+
+----
