@@ -11,7 +11,7 @@ It provides a **seamless user experience** and creates a **powerful first impres
 ---
 
 ## 🌐 Live Deployment
-You can view a live demo of the project here: **[Haramaya Gym Live](https://your-deployment-link.com)**
+You can view a live demo of the project here: **[Haramaya Gym Live](https://pulse-prime-platform.lovable.app)**
 
 ---
 
